@@ -12,13 +12,13 @@ Some files seems to be missing when comparing two source codes using
 `robocopy I:\x\Zet-1.3.1-Archive I:\ZetCPU\zet-master-new\zet-master /MIR /FP /NDL /NP /L > DIR_DIFF.txt`  
 which leads to compilation errors with Quartus II.  
 
-The files differences are shown in "DIR_DIFF.txt"    
+The files differences are shown in "DIR_DIFF.txt"     
 
-Source : I:\x\Zet-1.3.1-Archive\  <= Source Code (Version 1.3.1) from Web Archive
-Dest : I:\ZetCPU\zet-master-new\zet-master\  <= Forked GitHub Repo
+Source : I:\x\Zet-1.3.1-Archive\  <= Source Code (Version 1.3.1) from Web Archive  
+Dest : I:\ZetCPU\zet-master-new\zet-master\  <= Forked GitHub Repo  
 
-Tested Quartus II version:    
+Tested Quartus II version:     
 
-Quartus II 13.0.1 64-Bit Version Build 232 06/12/2013 SJ Web Edition (Service Pack Installed : 1)
+Quartus II 13.0.1 64-Bit Version Build 232 06/12/2013 SJ Web Edition (Service Pack Installed : 1)  
 Downloaded from:  
 https://www.intel.com/content/www/us/en/software-kit/711791/intel-quartus-ii-web-edition-design-software-version-13-0sp1-for-windows.html  
